@@ -1,0 +1,6 @@
+langchain
+flask
+langchain-core
+langchain-community
+pydantic
+werkzeug
